@@ -1,0 +1,9 @@
+C:\Users\Itzik\Desktop\Projects\MSBNpcCreator\MSBNpcCreator\bin\Debug\MSBNpcCreator.exe.config
+C:\Users\Itzik\Desktop\Projects\MSBNpcCreator\MSBNpcCreator\bin\Debug\MSBNpcCreator.exe
+C:\Users\Itzik\Desktop\Projects\MSBNpcCreator\MSBNpcCreator\bin\Debug\MSBNpcCreator.pdb
+C:\Users\Itzik\Desktop\Projects\MSBNpcCreator\MSBNpcCreator\obj\Debug\MSBNpcCreator.csprojResolveAssemblyReference.cache
+C:\Users\Itzik\Desktop\Projects\MSBNpcCreator\MSBNpcCreator\obj\Debug\MSBNpcCreator.Form1.resources
+C:\Users\Itzik\Desktop\Projects\MSBNpcCreator\MSBNpcCreator\obj\Debug\MSBNpcCreator.Properties.Resources.resources
+C:\Users\Itzik\Desktop\Projects\MSBNpcCreator\MSBNpcCreator\obj\Debug\MSBNpcCreator.csproj.GenerateResource.Cache
+C:\Users\Itzik\Desktop\Projects\MSBNpcCreator\MSBNpcCreator\obj\Debug\MSBNpcCreator.exe
+C:\Users\Itzik\Desktop\Projects\MSBNpcCreator\MSBNpcCreator\obj\Debug\MSBNpcCreator.pdb

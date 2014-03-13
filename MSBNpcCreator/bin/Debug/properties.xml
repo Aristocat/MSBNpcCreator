@@ -1,0 +1,26 @@
+<!-- v147
+<Properties>
+	<Recv>
+		<CHANGE_MAP>0x51</CHANGE_MAP>
+		<NPC_TALK>0x7F</NPC_TALK>
+		<NPC_TALK_MORE>0x81</NPC_TALK_MORE>
+	</Recv>
+	<Send>
+		<SHOW_STATUS_INFO>0x34</SHOW_STATUS_INFO>
+		<NPC_TALK>0x33D</NPC_TALK>
+		<WARP_TO_MAP>0x124</WARP_TO_MAP>
+	</Send>
+</Properties>
+-->
+<Properties>
+	<Recv>
+		<CHANGE_MAP>0x51</CHANGE_MAP>
+		<NPC_TALK>0x7F</NPC_TALK>
+		<NPC_TALK_MORE>0x81</NPC_TALK_MORE>
+	</Recv>
+	<Send>
+		<SHOW_STATUS_INFO>0x34</SHOW_STATUS_INFO>
+		<NPC_TALK>0x337</NPC_TALK>
+		<WARP_TO_MAP>0x126</WARP_TO_MAP>
+	</Send>
+</Properties>
